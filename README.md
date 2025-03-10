@@ -3,6 +3,7 @@ Description
 This project is a Beauty Salon Management System, designed to manage a salon's database using SQL and PL/SQL. It provides functionalities for handling appointments, customers, services, employees, and payments efficiently.
 
 
+
 Features
 
 -Customer Management – Add, update, and delete customer records.
@@ -15,8 +16,9 @@ Features
 
 -Payment Tracking – Record and manage payments.
 
-Technologies Used
 
+
+Technologies Used
 
 -SQL – Database structure, queries, and data manipulation.
 
